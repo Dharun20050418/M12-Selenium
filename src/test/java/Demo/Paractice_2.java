@@ -12,5 +12,7 @@ public class Paractice_2 {
 		}
 		System.out.println("CSK Got 6th Cup");
 		System.out.println("All done and good");
+		
+		System.out.println("Hii.......!");
 	}
 }
