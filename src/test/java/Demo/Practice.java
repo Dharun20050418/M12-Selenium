@@ -6,5 +6,6 @@ public class Practice {
 	{
 		System.out.println("Git Practice");
 		System.out.println("Changed");
+		System.out.println("Hello");
 	}
 }
