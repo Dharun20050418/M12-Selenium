@@ -4,10 +4,10 @@ public class Paractice_2 {
 
 	public static void main(String[] args) {
 		int a=1;
-		int b=5;
-		if(a==b) {
+		int CSK=5;
+		if(a!=CSK) {
 			a++;
 		}
-		System.out.println("Csk Got 6th Cup");
+		System.out.println("CSK Got 6th Cup");
 	}
 }
